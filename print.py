@@ -1,0 +1,6 @@
+print("Welcome to the world of coding!")
+print(4)
+print("welcome home \n hi my name is yukthi")
+print("hello",5)
+print("welcome to", end="*")
+print("welcome home \n hi my name is yukthi")
